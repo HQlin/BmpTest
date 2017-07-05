@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BmpTest", "BmpTest\BmpTest.vcxproj", "{11863AA4-5E60-44A1-B6B8-0738F66D8C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11863AA4-5E60-44A1-B6B8-0738F66D8C9E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11863AA4-5E60-44A1-B6B8-0738F66D8C9E}.Debug|Win32.Build.0 = Debug|Win32
+		{11863AA4-5E60-44A1-B6B8-0738F66D8C9E}.Release|Win32.ActiveCfg = Release|Win32
+		{11863AA4-5E60-44A1-B6B8-0738F66D8C9E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
